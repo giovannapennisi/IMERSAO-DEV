@@ -22,16 +22,12 @@ Este repositório será utilizado para o desenvolvimento de um projeto pessoal d
 * **script.js:** Arquivo JavaScript para as funcionalidades.
 * **data:** Pasta para armazenar dados (opcional).
 
-**Como Contribuir:**
-
-Este é um projeto pessoal, mas se você tiver alguma sugestão ou quiser colaborar, fique à vontade para abrir um issue ou pull request.
 
 **Próximos Passos:**
 
 * **Pesquisa da API da CEAGESP:** Entender como consumir a API e obter os dados desejados.
 * **Design da interface:** Criar um design intuitivo e agradável para o usuário.
 * **Desenvolvimento das funcionalidades:** Implementar a lógica para buscar os dados, gerar a tabela e as sugestões de receitas.
-
 
 
 
