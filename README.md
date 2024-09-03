@@ -18,7 +18,7 @@ Este repositório será utilizado para o desenvolvimento de um projeto pessoal d
 **Estrutura do Projeto:**
 
 * **index.html:** Página principal do site.
-* **style.css:** Arquivo de estilos CSS.
+* **styles.css:** Arquivo de estilos CSS.
 * **app.js:** Arquivo JavaScript para as funcionalidades.
 
 
