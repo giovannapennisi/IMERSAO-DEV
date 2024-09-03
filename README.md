@@ -20,16 +20,6 @@ Este repositório será utilizado para o desenvolvimento de um projeto pessoal d
 * **index.html:** Página principal do site.
 * **style.css:** Arquivo de estilos CSS.
 * **script.js:** Arquivo JavaScript para as funcionalidades.
-* **data:** Pasta para armazenar dados (opcional).
-
-
-**Próximos Passos:**
-
-* **Pesquisa da API da CEAGESP:** Entender como consumir a API e obter os dados desejados.
-* **Design da interface:** Criar um design intuitivo e agradável para o usuário.
-* **Desenvolvimento das funcionalidades:** Implementar a lógica para buscar os dados, gerar a tabela e as sugestões de receitas.
-
-
 
 
 Agradeço à Alura pela oportunidade de participar da Imersão Dev e aprender novas tecnologias.
