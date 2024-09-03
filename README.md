@@ -19,7 +19,7 @@ Este repositório será utilizado para o desenvolvimento de um projeto pessoal d
 
 * **index.html:** Página principal do site.
 * **style.css:** Arquivo de estilos CSS.
-* **script.js:** Arquivo JavaScript para as funcionalidades.
+* **app.js:** Arquivo JavaScript para as funcionalidades.
 
 
 Agradeço à Alura pela oportunidade de participar da Imersão Dev e aprender novas tecnologias.
