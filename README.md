@@ -2,11 +2,9 @@
 
 **Descrição:**
 
-Este repositório será utilizado para o desenvolvimento de um projeto pessoal durante a Imersão Dev. A ideia é criar um site que:
-
-* **Consulta a CEAGESP:** Utiliza a API da CEAGESP para obter informações sobre a sazonalidade de frutas, legumes e verduras.
-* **Exibe tabela:** Apresenta uma tabela clara e organizada com os produtos da estação.
-* **Sugere receitas:** Oferece sugestões de receitas baseadas nos produtos da estação, com links para as receitas.
+Este repositório será utilizado para o desenvolvimento de um projeto pessoal durante a Imersão Dev. A ideia é criar um site que o usuário possa
+pesquisar sobre um determinado alimento (fruta, vegetal ou legume) e obter informações sobre ele e sua sazonalidade (de acordo com a tabela da
+CEAGESP).
 
 **Tecnologias:**
 
@@ -20,6 +18,6 @@ Este repositório será utilizado para o desenvolvimento de um projeto pessoal d
 * **index.html:** Página principal do site.
 * **styles.css:** Arquivo de estilos CSS.
 * **app.js:** Arquivo JavaScript para as funcionalidades.
+* **dados.js:** Arquivo JavaScript para armazenar os dados do site. 
 
 
-Agradeço à Alura pela oportunidade de participar da Imersão Dev e aprender novas tecnologias.
