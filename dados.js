@@ -13,7 +13,7 @@ let dados =[
 
     {
         titulo: "Tomate",
-        descricao: "O tomate é uma fruta rica em licopeno, um pigmento antioxidante que confere a ele sua cor vermelha característica. Além do licopeno, o tomate é uma excelente fonte de vitaminas A e C, potássio e fibras. Sua versatilidade culinária é inegável, podendo ser consumido in natura, em saladas, molhos, sucos e diversas outras preparações. O tomate é um ingrediente fundamental da dieta mediterrânea e está associado à prevenção de diversas doenças, como doenças cardíacas e alguns tipos de câncer. A sazonalidade do tomate varia de acordo com a região, mas em geral, as melhores épocas para encontrar tomates frescos e saborosos são o verão e o outono. Nesses períodos, os tomates tendem a ser mais suculentos e saborosos.",
+        descricao: "O tomate é uma fruta rica em licopeno, um pigmento antioxidante que confere a ele sua cor vermelha característica. Além do licopeno, o tomate é uma excelente fonte de vitaminas A e C, potássio e fibras. Sua versatilidade culinária é inegável, podendo ser consumido in natura, em saladas, molhos, sucos e diversas outras preparações. O tomate é um ingrediente fundamental da die ta mediterrânea e está associado à prevenção de diversas doenças, como doenças cardíacas e alguns tipos de câncer. A sazonalidade do tomate varia de acordo com a região, mas em geral, as melhores épocas para encontrar tomates frescos e saborosos são o verão e o outono. Nesses períodos, os tomates tendem a ser mais suculentos e saborosos.",
         link:"https://ceagesp.gov.br/pesquisar/tomate",
     },
 

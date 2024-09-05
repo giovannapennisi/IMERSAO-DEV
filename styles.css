@@ -17,7 +17,7 @@ body {
 /* Estiliza os títulos h1 */
 h1 {
     font-size: 2.5rem;
-    color: #222831;
+    color: #0e351b;
     text-align: center;
     letter-spacing: 0.4rem;
     line-height: 1.5; /* Aumenta o espaço entre as linhas */
@@ -26,7 +26,7 @@ h1 {
 
 h2 {
     font-size: 1.5rem; /* Tamanho da fonte */
-    color: #222831; /* Cor do texto */
+    color: #0e351b; /* Cor do texto */
     text-align: center; /* Alinha o texto ao centro */
     letter-spacing: 0.1rem; /* Espaçamento entre letras */
 }
