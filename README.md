@@ -18,6 +18,8 @@ CEAGESP).
 * **index.html:** Página principal do site.
 * **styles.css:** Arquivo de estilos CSS.
 * **app.js:** Arquivo JavaScript para as funcionalidades.
-* **dados.js:** Arquivo JavaScript para armazenar os dados do site. 
+* **dados.js:** Arquivo JavaScript para armazenar os dados do site.
 
-
+ ## Demonstração
+* Ao final do projeto, o site foi adicionado no Versel.
+* Acesse a aplicação aqui: https://imersao-dev-two.vercel.app/
